@@ -1,0 +1,30 @@
+D:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2hasilLogin.resources
+D:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\SFR\Downloads\UAS PBO\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\SFR\Downloads\UAS PBO\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\SFR\Downloads\UAS PBO\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\SFR\Downloads\UAS PBO\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\SFR\Downloads\UAS PBO\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\SFR\Downloads\UAS PBO\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\SFR\Downloads\UAS PBO\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2hasilLogin.resources
+C:\Users\SFR\Downloads\UAS PBO\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\SFR\Downloads\UAS PBO\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\SFR\Downloads\UAS PBO\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+F:\UAS PBO\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+F:\UAS PBO\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+F:\UAS PBO\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+F:\UAS PBO\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\UAS PBO\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\UAS PBO\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+F:\UAS PBO\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2hasilLogin.resources
+F:\UAS PBO\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\UAS PBO\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\UAS PBO\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache

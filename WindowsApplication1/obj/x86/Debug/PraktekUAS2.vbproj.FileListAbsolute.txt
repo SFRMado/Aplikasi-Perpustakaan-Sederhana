@@ -1,0 +1,10 @@
+H:\UAS PBO\Aplikasi Perpustakaan\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+H:\UAS PBO\Aplikasi Perpustakaan\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+H:\UAS PBO\Aplikasi Perpustakaan\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+H:\UAS PBO\Aplikasi Perpustakaan\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+H:\UAS PBO\Aplikasi Perpustakaan\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+H:\UAS PBO\Aplikasi Perpustakaan\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+H:\UAS PBO\Aplikasi Perpustakaan\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2hasilLogin.resources
+H:\UAS PBO\Aplikasi Perpustakaan\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+H:\UAS PBO\Aplikasi Perpustakaan\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\UAS PBO\Aplikasi Perpustakaan\WindowsApplication1\obj\x86\Debug\PraktekUAS2.vbproj.GenerateResource.Cache
